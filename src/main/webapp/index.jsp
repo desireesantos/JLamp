@@ -1,0 +1,1 @@
+<% response.sendRedirect("page/apagar.xhtml"); %>
